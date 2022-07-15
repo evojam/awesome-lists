@@ -21,6 +21,7 @@
 - [Functional architecture - The pits of success - Mark Seemann](https://www.youtube.com/watch?v=US8QG9I1XW0)
 - [Exploring Folds: A Powerful Pattern Of Functional Programming](https://medium.com/@zaid.naom/exploring-folds-a-powerful-pattern-of-functional-programming-3036974205c8)
 - [Domain Modeling Made Functional - Scott Wlaschin](https://www.youtube.com/watch?v=2JB1_e5wZmU)
+- [How to Make Your Architecture Scream with Functional Domain Modeling – Bartłomiej Słota](https://www.youtube.com/watch?v=HwVVkk_L21I)
 - [Evotalk - Marcin Wadoń - Recursion schemes - where all the magic can be applied](https://drive.google.com/file/d/1_5vZhxDIP-5w9rofto2CMI8FzggIvfCn/view?usp=sharing)
 - [Evotalk - Marcin Wadoń - Where all the magic begins - intro to category theory](https://drive.google.com/file/d/1ztxQf7G-hs5S3OHcCghE5kGrM2ja9-d3/view?usp=sharing)
 
